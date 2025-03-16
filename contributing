@@ -1,0 +1,95 @@
+CONTRIBUTING.md  Contributing to SafeZone 🚀
+
+Thank you for your interest in contributing to SafeZone: Community Police Watch! SafeZone is an open-source project dedicated to real-time police alerts, community safety, and legal support. We welcome contributions from developers, designers, activists, and anyone committed to creating technology for justice and accountability.
+
+📌 How to Contribute
+
+1️⃣ Getting Started
+
+Fork & Clone the Repository
+
+Click the Fork button (top right of this page) to create your own copy.
+
+Clone the repository to your local machine:
+
+git clone https://github.com/YOUR-USERNAME/SafeZone-Community-Police-Watch.git
+
+Navigate into the project directory:
+
+cd SafeZone-Community-Police-Watch
+
+Set Up the Environment
+
+Ensure you have Node.js (v16+) and React Native installed.
+
+Install dependencies:
+
+npm install
+
+2️⃣ Pick an Issue & Start Contributing
+
+Check GitHub Issues for tasks labeled Good First Issue, Help Wanted, or Feature Request.
+
+Comment on an issue to let others know you're working on it.
+
+Create a feature branch for your contribution:
+
+git checkout -b feature/your-feature-name
+
+Implement your changes and commit them:
+
+git commit -m "Added [feature name]"
+
+Push to your forked repo:
+
+git push origin feature/your-feature-name
+
+Open a Pull Request (PR) to merge your changes!
+
+3️⃣ Code Guidelines & Best Practices
+
+✅ Follow best coding practices for readability & maintainability.✅ Use meaningful commit messages (e.g., feat: Added real-time alerts).✅ Ensure your code is well-documented and commented where necessary.✅ Run linting checks before submitting:
+
+npm run lint
+
+4️⃣ Security & Privacy Guidelines 🔐
+
+🚨 SafeZone is a privacy-first project focused on community safety. Keep in mind:
+
+Do NOT store or expose sensitive user data.
+
+Use end-to-end encryption where applicable.
+
+Follow secure coding practices to prevent vulnerabilities.
+
+5️⃣ Reporting Bugs & Feature Requests 🛠
+
+If you encounter a bug or want to suggest a new feature:
+
+Open a new issue in GitHub.
+
+Use a clear title (e.g., Bug: App crashes on map load).
+
+Provide screenshots or logs to help debug.
+
+6️⃣ Join the Community 🤝
+
+We believe in collaborative activism & open-source justice tech! Join us:
+
+GitHub Discussions – Ask questions & share ideas.
+
+Slack/Discord – Connect with other contributors.
+
+Twitter & LinkedIn – Spread awareness & recruit new contributors.
+
+📢 Join the conversation: [Slack/Discord Invite Link]
+
+7️⃣ Need Help? Contact Us!
+
+If you have any questions, feel free to reach out:
+📧 Email: [dedanwaciuri494@gmail.com]🌍 Website: [Your Website]🐦 Twitter: [@SafeZoneApp]
+
+📢 Together, we can build a safer, more accountable future. ✊🏾
+
+🔥 #WeKeepUsSafe | #SafeZone | #CopWatch | #CommunitySafety
+
