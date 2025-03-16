@@ -116,13 +116,13 @@ National Bail Fund Network
 
 Movement for Black Lives (M4BL)
 
-[Your Organization Here]
+[The Amani Collective]
 
-📢 Want to support? Reach out at [Your Contact Email]
+📢 Want to support? Reach out at [Dedanwaciuri494@gmailcom]
 
 📞 Contact & Community Links
 
-📧 Email: [Your Email]🌐 Website: [Your Website]📲 Twitter: [@SafeZoneApp]💬 Join Our Slack/Discord: [Community Chat Link]
+📧 Email: [dedanwaciuri494@gmail.com]🌐 Website: [Your Website]📲 Twitter: [@SafeZoneApp]💬 Join Our Slack/Discord: [Community Chat Link]
 
 🔥 Together, we can build a safer, more accountable future. ✊🏾
 
